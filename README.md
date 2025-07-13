@@ -53,19 +53,19 @@ Main interface showing staff count, search filters, position details, role break
 ---
 
 ### 🔎 Step 2: Staff Search Scenario  
-User can search by **staff number or name**, and the entire dashboard will dynamically update to show filtered information (assignment, salary grade, etc.).
+User can search by **staff number or name**, filter by staff tagging (filled or vacant), staff talent category and the entire dashboard will dynamically update to show filtered information (assignment location, salary grade, etc.).
 
 <p align="center">
   <img src="sample-screenshots/dashboard-filter.png" alt="Staff Search Filter" width="700"/>
 </p>
 
-*All visuals reflect data based on selected staff name or number.*
+*All visuals reflect data based on entered name.*
 
 ---
 
 ## 🔍 Key Features
 
-- 👤 **Staff-level filtering** by name or staff number  
+- 👤 **Staff-level filtering** by staff name or number, slicer for staff tagging (filled or vacant) and staff talent category
 - 📌 **Assignment location heatmap** to view staff distribution  
 - 📈 **Filled vs vacant roles** by section  
 - ⏱️ **Years in salary grade** & **role type** per grade  
