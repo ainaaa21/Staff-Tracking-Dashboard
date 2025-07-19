@@ -8,7 +8,7 @@ The dashboard consolidates key HR data — such as **position details, gender br
 ---
 
 ## 🔐 Confidentiality Note  
-*All data shown has been anonymized or recreated to maintain company data confidentiality. Visuals are intended to demonstrate layout and dashboard features only.*
+*All data in this dashboard has been recreated or anonymized to protect company confidentiality. This sample only reflects the data logic and structure used in the actual project.*
 
 ---
 
